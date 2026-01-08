@@ -267,7 +267,7 @@ workflow.add_node("custom", custom_node)
 
 ## License
 
-[MIT Licensed]
+[MIT License Copyright (c) 2026 Subhajyoti Mondal]
 
 ## Contributing
 
