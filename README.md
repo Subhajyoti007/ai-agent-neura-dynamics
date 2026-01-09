@@ -321,11 +321,4 @@ This repository is intentionally kept small and focused so you can quickly under
 
 The following screenshots showcase the application running with LangSmith integration, capturing all LLM interactions and evaluations:
 
-![LangSmith Log 1](C:\Users\monda\Pictures\Screenshots\Screenshot 2026-01-09 052600.png)
-![LangSmith Log 2](C:\Users\monda\Pictures\Screenshots\Screenshot 2026-01-09 052614.png)
-![LangSmith Log 3](C:\Users\monda\Pictures\Screenshots\Screenshot 2026-01-09 052640.png)
-![LangSmith Log 4](C:\Users\monda\Pictures\Screenshots\Screenshot 2026-01-09 052648.png)
-![LangSmith Log 5](C:\Users\monda\Pictures\Screenshots\Screenshot 2026-01-09 052705.png)
-![LangSmith Log 6](C:\Users\monda\Pictures\Screenshots\Screenshot 2026-01-09 052713.png)
-![LangSmith Log 7](C:\Users\monda\Pictures\Screenshots\Screenshot 2026-01-09 052734.png)
-![LangSmith Log 8](C:\Users\monda\Pictures\Screenshots\Screenshot 2026-01-09 052744.png)
+![LangSmith Log](https://github.com/Subhajyoti007/ai-agent-neura-dynamics/blob/3757456f21df9a9d8e330cb678856c04aa7d89b2/LangSmith_Log_sc1.png)
