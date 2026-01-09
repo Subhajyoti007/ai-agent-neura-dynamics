@@ -184,13 +184,13 @@ The router uses a two-tier approach:
 |----------|------|----------|-------------|
 | `OPENAI_API_KEY` | String | ✓ | OpenAI API key for LLM and embeddings |
 | `OPENAI_MODEL_NAME` | String | | Model to use (default: `gpt-4o-mini`) |
-| `OPENWEATHER_API_KEY` | String | | OpenWeatherMap API key (required for weather) |
+| `OPENWEATHER_API_KEY` | String | ✓ | OpenWeatherMap API key (required for weather) |
 | `OPENWEATHER_DEFAULT_CITY` | String | | Default city if none extracted (default: `London`) |
 | `OPENWEATHER_UNITS` | String | | Unit system: `metric` or `imperial` (default: `metric`) |
 | `PDF_PATH` | String | ✓ | Path to PDF file for RAG |
 | `PDF_COLLECTION_NAME` | String | | Qdrant collection name (default: `pdf_documents`) |
 | `QDRANT_PATH` | String | | Local Qdrant persistence path (default: `qdrant_local`) |
-| `LANGSMITH_API_KEY` | String | | LangSmith API key for evaluation (optional) |
+| `LANGSMITH_API_KEY` | String | ✓ | LangSmith API key for evaluation (optional) |
 | `LANGCHAIN_TRACING_V2` | Boolean | | Enable LangChain tracing (optional) |
 | `LANGCHAIN_PROJECT` | String | | LangSmith project name (optional) |
 
